@@ -2,7 +2,6 @@
 
 risk
 
-general assembly final project
 
 ## **Project Mission**
 
